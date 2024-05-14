@@ -7,8 +7,11 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi I am **{{ site.author.name }}** 👋,
+
+I am an electronics designer currently based in NRW, Germany. As daily business, I work around with hardware design and firmware programming back and forth. I like learning new stuff by practicing it, and of course, I made mistakes during the journey. That's one of the motivation that I shared my learning experience by taking notes and publish in my blog.
+
+Check out my projects and blogs, and you'r welcome to exchange thoughts and to share your knowledge! 🍻🍻
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

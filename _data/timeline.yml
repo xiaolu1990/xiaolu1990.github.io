@@ -1,17 +1,13 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Electronics Designer, Smart Optics, DE
+  from: 2022
+  to: now
+  description: • Hardware PCB design for NPD, Prototyping, Debugging <br />
+               • Creation of drivers, firmware and commissioning software <br />
+               • Proficient in USB products <br />
 
-- title: Software Engineer, Google, UK
+- title: Electronics Designer, Wowtech Group, DE
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: 2022
+  description: • Hardware PCB design for NPD, Prototyping, Debugging <br />
+               • Creation of drivers, firmware and commissioning software <br />
+               • Antenna tunning and RF design <br />
