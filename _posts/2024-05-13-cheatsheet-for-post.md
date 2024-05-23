@@ -1,7 +1,7 @@
 ---
 title: Cheatsheet for New Posts
 tags: [Template, Cheatsheet]
-style: fill
+style: border
 color: primary
 description: Markdown syntax that lists the supported elements supported by the jekyll theme portfolYOU.
 ---

@@ -25,26 +25,9 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Zhangshun Lu
   image             : https://github.com/xiaolu1990.png
-  # behance           : your_username
-# dribbble          : your_username
   email             : luzhangshun@zohomail.cn
-  # facebook          : your_username
   github            : xiaolu1990
-# gitlab            : your_username
-# instagram         : your_username
-# kaggle            : your_username
-  # linkedin          : your_username
-  # medium            : your_username
-# soundcloud        : your_username
-# spotify           : your_username
-# stackoverflow     : your_user_id
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-  # twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
-
+  bilibili          : # user id
 
 ### Posts ###
 permalink: /blog/:title
