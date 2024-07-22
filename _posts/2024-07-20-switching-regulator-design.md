@@ -32,6 +32,8 @@ After giving my input in the _WEBENCH_ designer, I quickly get the solutions fro
 
 ## Application circuit of LMR51450
 
+---
+
 The typical application circuit diagram for LMR51450 is shown below:
 
 {% include elements/figure.html image="/assets/images/2024-07-20/application_circuit.png" caption="Application Circuit" %}
@@ -46,6 +48,6 @@ $$
 R_{FBT} = \frac{(V_{OUT}-V_{REF})}{V_{REF}} \times R_{FBB}
 $$
 
-where $V_{REF} = 0.8V$ according to the datasheet.
+where $$V_{REF} = 0.8V$$ to the datasheet.
 
-To set the output voltage to 5V, choose $R_{FBe}=100k\Omega$ and $R_{FBB}=19.2k\Omega$.
+To set the output voltage to 5V, choose $$R_{FBe}=100k\Omega$$ and $$R_{FBB}=19.2k\Omega$$.
