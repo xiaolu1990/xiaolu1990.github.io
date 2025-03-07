@@ -2,7 +2,7 @@
 title: Push Button Debouncing Techniques
 tags: [Hardware, Electronics Design, Firmware]
 style: border
-color: info
+color: success
 description: Introduce several methods to eliminate the "bounce" effect when using push buttons.
 ---
 
