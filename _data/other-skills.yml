@@ -14,10 +14,10 @@
   percentage: 90
   color: danger
 
-- name: Microcontroller, Sensors
+- name: Microcontroller, Sensors, Embedded UI design
   percentage: 90
   color: primary
 
-- name: RF Techniques
-  percentage: 70
+- name: RF Techniques, Communication Protocols
+  percentage: 90
   color: secondary
